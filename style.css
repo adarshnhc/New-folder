@@ -1,0 +1,35 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.carousel-inner{
+    padding-left: 30px;
+    padding-right: 30px;
+    position: relative;
+    
+}
+
+#img2{
+    padding: 30px;
+    margin-left: -100px;
+    height: 500px;
+    width: 900px;
+}
+
+
+#lorem{
+    margin-left: -90px;
+}
+
+#ker{
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+#ker2{
+    margin-left:250px ;
+    padding: 0;
+}
